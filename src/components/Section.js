@@ -24,7 +24,7 @@ function Section({
             {rightbtntext && <RightButton>{rightbtntext}</RightButton>}
           </ButtonGroup>
         </Fade>
-        <DownArrow src="/images/down-arrow.svg" />
+        <DownArrow src="https://ayush01729.github.io/Tesla-clone/" />
       </Buttons>
     </Wrap>
   );
